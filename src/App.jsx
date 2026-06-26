@@ -117,7 +117,7 @@ export default function App() {
             <Sparkles className="w-6 h-6 text-white" />
           </div>
           <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-indigo-600">
-            Abajis EduPilot
+            EduPilot
           </span>
           <span className="hidden md:inline ml-2 px-2.5 py-0.5 rounded-full bg-blue-100 text-blue-800 text-xs font-medium">
             Diagnostic MVP
